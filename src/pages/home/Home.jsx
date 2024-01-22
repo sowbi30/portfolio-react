@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import { Animate } from "react-simple-animate";
 import resumePDF from "../../images/SOWBARANIKA ESWARI_G_CV.pdf";
-import profilePhoto from "../../images/SOWMI.jpg"; 
+import profilePhoto from "../../images/profile.jpg"; 
 import PageHeaderContent from "../../components/pageHeaderContent/PageHeaderContent";
 import { BsInfoCircleFill } from "react-icons/bs";
 import "./home.scss";
