@@ -1,5 +1,12 @@
 export const data = {
     experience: [
+         {
+        title: "Sales Support",
+        subTitle: "Renewbuy, Bangalore",
+        description:
+          "Policy Issuance, create Quotation",
+          date:"2024 - TillDate",
+      },
       {
         title: "Back-Office-Executive",
         subTitle: "RM Insurance, Madurai",
